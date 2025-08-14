@@ -35,7 +35,6 @@ Incluye limpieza de datos, cálculo de estadísticas, detección de duplicados, 
 Instalar las librerías necesarias antes de ejecutar el script:
 
 ## Estructura
-.
 ├── analisis_llegadas.py
 
 ├── registro_llegadas_a_medellin_dic2024.csv
